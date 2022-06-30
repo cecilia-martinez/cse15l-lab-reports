@@ -13,9 +13,8 @@
 These are my offline edits!
 
 **Got Mangos?**
-> [alt](https://images.medicinenet.com/images/slideshow/health-benefits-of-mangos/health-benefits-of-mangos-s1-full-of-fiber.jpg)
-
-> [alt](https://images.heb.com/is/image/HEBGrocery/001668455)
+> ![alt](https://images.medicinenet.com/images/slideshow/health-benefits-of-mangos/health-benefits-of-mangos-s1-full-of-fiber.jpg)
+> ![alt](https://images.heb.com/is/image/HEBGrocery/001668455)
 ---
 Check out Emily's page!!
 > [Link](https://chen-emily-20.github.io/cse15l-lab-reports/index.html)
